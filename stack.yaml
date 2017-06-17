@@ -1,0 +1,16 @@
+flags: {}
+extra-package-dbs: []
+packages:
+- '.'
+extra-deps:
+- enumset-0.0.4
+- event-list-0.1.1.3
+- explicit-exception-0.1.8
+- jack-0.7.1.1
+- midi-0.2.2.1
+- midi-simple-0.1.0.0
+- monoid-transformer-0.0.3
+- non-negative-0.1.1
+- reactive-banana-1.1.0.1
+- reactive-banana-gi-gtk-0.2.0.0
+resolver: lts-8.3
